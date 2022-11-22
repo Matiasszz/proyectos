@@ -1,0 +1,3 @@
+Este proyecto fue mi primera página web hecha por mi en el curso de "Aprende Programando" donde recreamos la página de la empresa "Mercado Libre".
+(es mi primera página, por lo cual hay muchos errores(como botones que no funcionan y un footer no tan derecho digamos :D ), sepan disculpar :) ).
+https://mercadoooliebreee.netlify.app/#
